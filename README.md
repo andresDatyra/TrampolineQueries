@@ -13,4 +13,4 @@
 6. Assign Lesson To Newsfeed
    - [Assign Lesson To Newsfeed Mutation Example](./mutations/assignLessonToNewsfeedMutation.js)
 7. Schedule New Node Assigment
-    -[Send Notification Example](./mutations/scheduleNewNodeAssignmentMutation.js)
+    - [Send Notification Example](./mutations/scheduleNewNodeAssignmentMutation.js)
